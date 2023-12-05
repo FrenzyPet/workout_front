@@ -2,6 +2,9 @@
 	"name": "workout-front",
 	"private": true,
 	"version": "0.0.0",
+	"author": {
+		"name": "frenzy"
+	},
 	"type": "module",
 	"scripts": {
 		"start": "vite",
