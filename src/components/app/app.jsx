@@ -1,10 +1,13 @@
+import Layout from '../layout/layout'
 import s from './app.module.scss'
 
 const App = () => {
 	return (
-		<div className={s.main}>
-			<div></div>
-		</div>
+		<Layout>
+			<div className={s.main}>
+				<div>APP</div>
+			</div>
+		</Layout>
 	)
 }
 
